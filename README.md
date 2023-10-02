@@ -1,4 +1,4 @@
 # CS31
 Assignments for CS31
 
-Done by Ethan Wong in Fall 2019 @ UCLA
+Taken in Fall 2019 @ UCLA with Professor David Smallberg
